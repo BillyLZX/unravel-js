@@ -1,5 +1,6 @@
 var input ="peng shuo";
 var i = 1234;
+
 function jiami(){
 	var tag = "|";
 	function kaishijiami(input){
